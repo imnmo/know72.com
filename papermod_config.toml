@@ -1,11 +1,11 @@
-baseurl = "https://ashish.one/"
+baseurl = "https://know72.com"
 languageCode = "en-us"
-title = "ashish.one"
+title = "know.72"
 theme = "paperMod"
 
 publishDir = "docs"
 
-googleAnalytics = "UA-149424518-1"
+googleAnalytics = ""
 
 enableEmoji = true
 enableGitInfo = true
