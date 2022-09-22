@@ -1,9 +1,9 @@
-baseurl: 'https://ashish.one/'
+baseurl: 'https://know72.com'
 languageCode: en-us
-title: ashish.one
+title: Rule of 72
 theme: paperMod
 publishDir: docs
-googleAnalytics: UA-149424518-1
+googleAnalytics: 
 enableEmoji: true
 enableGitInfo: true
 enableRobotsTXT: true
@@ -20,13 +20,13 @@ params:
   env: production
   mainSections:
     - post
-  author: Ashish Tiwari
-  title: ashish.one
+  author: Imran Noor Mohamed
+  title: Rule of 72
   keyword:
     - Blogs
     - Gists
   images:
-    - 'https://www.gravatar.com/avatar/dcb52889deff3e5017a18de40c57add8?s=200'
+    - ''
   DateFormat: 'January 2, 2006'
   defaultTheme: dark
   disableThemeToggle: false
@@ -71,22 +71,21 @@ params:
   homeInfoParams:
     Title: "Bio  \U0001F44B"
     Content:  >
-      👋 Hi, I’m Ashish
+      👋 Hi, I’m Imran
 
 
-      🇮🇳 From India
+      DE From Germany
 
 
-      🧑‍💼 Developer Advocate India, Elastic
+      🧑‍💼 Technical Product Manager, Delivery Hero
 
 
-      🧑‍💻 Developer, Coder, Programmer, Tech
+      🧑‍💻 Tech lead, Open source contributor, Marketing Tech lead @Kubernetes
 
 
       🧑‍🤝‍🧑 Community lover, Speaker, Open source guy
 
 
-      [More](https://ashish.one/about)
       
   cover:
     linkFullImages: false
@@ -109,17 +108,6 @@ params:
       - permalink
       - summary
       - content
-  socialIcons:
-    - name: twitter
-      url: 'https://twitter.com/_ashish_tiwari'
-    - name: github
-      url: 'https://github.com/ashishtiwari1993'
-    - name: linkedin
-      url: 'https://www.linkedin.com/in/ashishtiwari93/'
-    - name: stackoverflow
-      url: 'https://stackoverflow.com/users/6438430/ashish-tiwari'
-    - name: RSS
-      url: index.xml
 outputs:
   home:
     - HTML
